@@ -1,0 +1,4 @@
+## Pages
+- [Catalogue des Services - Numerily](/servicecatalog): Découvrez tous les services proposés par Numerily. Dépannage, connectivité, cloud et plus encore.
+- [Commander:  - Numerily](/bookservice): No description available
+- [Portail Partenaire - Numerily](/partner): Votre portail partenaire personnalisé chez Numerily.
